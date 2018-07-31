@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "agora@github:SongLin123/agora",
+        "scope": null,
+        "escapedName": "agora",
+        "name": "agora",
+        "rawSpec": "github:SongLin123/agora",
+        "spec": "github:SongLin123/agora",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:SongLin123/agora.git",
+          "sshUrl": "git+ssh://git@github.com/SongLin123/agora.git",
+          "httpsUrl": "git+https://github.com/SongLin123/agora.git",
+          "gitUrl": "git://github.com/SongLin123/agora.git",
+          "shortcut": "github:SongLin123/agora",
+          "directUrl": "https://raw.githubusercontent.com/SongLin123/agora/master/package.json"
+        }
+      },
+      "E:\\webrtc"
+    ]
+  ],
+  "_from": "SongLin123/agora",
+  "_id": "agora@1.0.0",
+  "_inCache": true,
+  "_location": "/agora",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "agora@github:SongLin123/agora",
+    "scope": null,
+    "escapedName": "agora",
+    "name": "agora",
+    "rawSpec": "github:SongLin123/agora",
+    "spec": "github:SongLin123/agora",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:SongLin123/agora.git",
+      "sshUrl": "git+ssh://git@github.com/SongLin123/agora.git",
+      "httpsUrl": "git+https://github.com/SongLin123/agora.git",
+      "gitUrl": "git://github.com/SongLin123/agora.git",
+      "shortcut": "github:SongLin123/agora",
+      "directUrl": "https://raw.githubusercontent.com/SongLin123/agora/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/SongLin123/agora.git#2c8788fb8f3c95477ff2c8e16b905c1bafb267af",
+  "_shasum": "4b7cf918f9897bc38f8128d895c5faa1aa6f32ce",
+  "_shrinkwrap": null,
+  "_spec": "agora@github:SongLin123/agora",
+  "_where": "E:\\webrtc",
+  "author": "",
+  "dependencies": {
+    "agora-rtc-sdk": "^2.3.1",
+    "events": "^3.0.0",
+    "howler": "^2.0.12",
+    "jquery": "^3.3.1",
+    "less-loader": "^4.1.0",
+    "md5": "^2.2.1",
+    "popper.js": "^1.14.3",
+    "toastr": "^2.1.4"
+  },
+  "description": "",
+  "devDependencies": {},
+  "gitHead": "2c8788fb8f3c95477ff2c8e16b905c1bafb267af",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "agora",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
